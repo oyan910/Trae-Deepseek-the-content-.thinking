@@ -1,0 +1,3 @@
+python -m uvicorn app:app --host 0.0.0.0 --port 18080
+
+代理路径使用你真实的ipv4路径，在cmd输入 ipconfig
