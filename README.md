@@ -1,5 +1,5 @@
 # 如何在 Trae、Cursor、Windsurf 等 AI IDE 中开启或关闭模型的思考模式：一个通用本地代理方案
-
+## 此.md文档来自https://github.com/Zeng-Shenghao/How-to-Enable-or-Disable-Model-Thinking-Mode-in-Trae-Cursor-Windsurf-and-Other-AI-IDEs-A-Univers
 最近我在 Trae 这类 AI IDE 里接入第三方大模型时，遇到一个比较烦的问题：有些模型默认开启 Thinking / 思考模式，模型会长时间分析，最后导致断连、超时，或者任务卡住。
 
 这个问题不只可能出现在 Trae 里，像 Cursor、Windsurf、Cline、Roo Code 或其他支持自定义 OpenAI 兼容接口的 AI IDE / AI 编程工具，也可能遇到类似情况。
